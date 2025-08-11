@@ -13,11 +13,11 @@ This bootcamp will teach you how to:
 
 | Lesson | Description |
 |--------|-------------|
-| [01 – Getting Started](01-Getting-Started.md) | Set up your accounts, install tools, and understand what Process Automation is. |
-| [02 – Analysis & Design Thinking](02-Analysis-and-Design-Thinking.md) | Learn how to break problems into smaller parts using the **Empathise – Define – Ideate** mini-cycle. |
-| [03 – Design](03-Design.md) | Map the current (**As-Is**) and future (**To-Be**) process using Draw.io and simple BPMN symbols. |
-| [04 – Development](04-Development.md) | Turn your process design into a working automation with Power Automate. |
-| [Final Project](final-project.md) | Apply everything you’ve learned to analyse, design, and build your own automation solution, then publish it on GitHub. |
+| [01 – Getting Started](./01%20Getting%20Started.md) | Set up your accounts, install tools, and understand what Process Automation is. |
+| [02 – Analysis & Design Thinking](./02%20Analysis%20and%20Design%20Thinking.md) | Learn how to break problems into smaller parts using the **Empathise – Define – Ideate** mini-cycle. |
+| [03 – Design](./03%20Design.md) | Map the current (**As-Is**) and future (**To-Be**) process using Draw.io and simple BPMN symbols. |
+| [04 – Development](./04%20Development.md) | Turn your process design into a working automation with Power Automate. |
+| [05 – Final Project](./05%20Final%20Project.md) | Apply everything you’ve learned to analyse, design, and build your own automation solution, then publish it on GitHub. |
 
 ---
 
