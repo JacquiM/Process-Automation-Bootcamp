@@ -5,6 +5,7 @@ This bootcamp will teach you how to:
 1. **Analyse a problem** using Design Thinking
 2. **Map out processes** using industry tools
 3. **Build and automate solutions** using the Microsoft Power Platform
+4. **Package your work into a professional portfolio project**
 
 ---
 
@@ -16,6 +17,7 @@ This bootcamp will teach you how to:
 | [02 – Analysis & Design Thinking](02-Analysis-and-Design-Thinking.md) | Learn how to break problems into smaller parts using the **Empathise – Define – Ideate** mini-cycle. |
 | [03 – Design](03-Design.md) | Map the current (**As-Is**) and future (**To-Be**) process using Draw.io and simple BPMN symbols. |
 | [04 – Development](04-Development.md) | Turn your process design into a working automation with Power Automate. |
+| [Final Project](final-project.md) | Apply everything you’ve learned to analyse, design, and build your own automation solution, then publish it on GitHub. |
 
 ---
 
@@ -40,11 +42,7 @@ By the end of this bootcamp, you will be able to:
 1. Start with **Lesson 1** and work through each lesson in order.
 2. Complete the **activities** in each lesson – they build on each other.
 3. Push all your diagrams, notes, and screenshots to your **GitHub repository**.
-4. At the end, you will have:
-   - A **problem analysis**
-   - **As-Is and To-Be process maps**
-   - A **working automation**
-   - A **GitHub project portfolio**
+4. Complete the **Final Project** to consolidate your learning and showcase your skills.
 
 ---
 
