@@ -67,7 +67,21 @@ In this bootcamp, you’ll **analyse** a problem, **design** a better process, a
 
 ---
 
+## 🏋️ Activities – Getting Started
+
+1. **Account Setup**
+   - Sign up for a Microsoft 365 Education account and log in.
+   - Sign up for a GitHub account.
+2. **Tool Access Check**
+   - Open Power Automate and create a new (blank) flow.
+   - Open Draw.io and create a blank diagram, then save it.
+   - Create a new GitHub repository and upload a text file saying "Bootcamp setup complete."
+3. **First GitHub Commit**
+   - Create a file called `my-learning-journal.md` in your GitHub repo.
+   - Write a short paragraph about what you expect to learn in this bootcamp.
+
+---
+
 ## 🚀 What’s Next?
 
 Once your setup is complete, move on to **Lesson 1: Analysis & Design Thinking** where you’ll learn how to break down problems into smaller, solvable parts.
-
