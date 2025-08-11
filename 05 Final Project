@@ -1,0 +1,145 @@
+# Final Project – Process Automation Bootcamp
+
+## 📋 Project Brief
+For your final project, you will **apply everything you have learned** during the bootcamp to solve a real-world problem using the Microsoft Power Platform.
+
+Your project must:
+1. **Analyse** a problem using the Empathise – Define – Ideate approach.
+2. **Map** the current (As-Is) and improved (To-Be) process flows.
+3. **Develop** an automation using Power Automate (and optionally Power Apps or Power BI).
+4. **Document** your work and push all deliverables to GitHub.
+
+---
+
+## 🎯 Project Goals
+- Demonstrate **problem-solving skills**.
+- Apply **process mapping techniques** to communicate solutions clearly.
+- Build an **automation** that improves efficiency or removes manual work.
+- Present your work in a **professional portfolio format**.
+
+---
+
+## 🛠 Allowed Tools
+- **Draw.io (Diagrams.net)** – process mapping
+- **Microsoft Power Platform** – Power Automate, Power Apps, Power BI, Power Virtual Agents
+- **SharePoint** – data storage
+- **GitHub** – project documentation
+
+---
+
+## 📂 Deliverables
+Your GitHub repository must include:
+
+1. **Problem Analysis**
+   - Problem statement
+   - Empathise notes (interviews/observations)
+   - List of possible solutions
+
+2. **Process Design**
+   - As-Is process diagram (PNG)
+   - To-Be process diagram (PNG)
+
+3. **Automation**
+   - Screenshots of Power Automate flow
+   - Screenshots of test run (e.g., email received, data updated)
+   - Optional: Power Apps screen(s) or Power BI report screenshot(s)
+
+4. **Documentation**
+   - This `final-project.md` filled out
+   - Any extra notes or files that support your project
+
+---
+
+## 📌 Project Steps
+
+### Step 1 – Choose a Problem
+Pick a process from your college, community, or personal life that:
+- Has **repetitive manual steps**
+- Involves **more than one person/system**
+- Could be **improved with automation**
+
+**Examples:**
+- Submitting and approving maintenance requests
+- Recording attendance for events
+- Sending reminders for overdue books
+- Tracking assignment submissions
+
+---
+
+### Step 2 – Analyse the Problem
+1. **Empathise** – Talk to 1–2 people who use or run this process.
+2. **Define** – Write a clear problem statement.
+3. **Ideate** – Brainstorm at least 3 possible solutions.
+
+---
+
+### Step 3 – Map the Process
+1. Create an **As-Is** process diagram.
+2. Create a **To-Be** process diagram showing improvements and automation.
+
+---
+
+### Step 4 – Build the Automation
+1. Use Power Automate (or Power Apps, Power BI) to create your solution.
+2. Test it with real or sample data.
+3. Take screenshots of your working automation.
+
+---
+
+### Step 5 – Submit Your Project
+1. Push all files, diagrams, and screenshots to your GitHub repository.
+2. Fill out the **Project Summary** section below.
+3. Share your GitHub repo link with your facilitator.
+
+---
+
+## 📄 Project Summary (Fill This Out)
+
+### Problem Statement
+> [Write your one-sentence problem statement here.]
+
+### Empathise Notes
+> [Summarise your interviews, observations, or data collected.]
+
+### Possible Solutions
+1. [Idea 1]
+2. [Idea 2]
+3. [Idea 3]
+
+### As-Is Process
+> ![As-Is Diagram](path-to-your-image.png)
+
+### To-Be Process
+> ![To-Be Diagram](path-to-your-image.png)
+
+### Automation Description
+> [Briefly explain your automation – what triggers it, what actions it performs, and the expected outcome.]
+
+### Automation Screenshots
+> ![Flow Screenshot](path-to-your-image.png)  
+> ![Test Result Screenshot](path-to-your-image.png)
+
+### Lessons Learned
+> [Write 3–5 sentences about what you learned while doing this project.]
+
+---
+
+## 🏆 Evaluation Criteria
+Your project will be evaluated based on:
+- **Clarity of problem statement** (10%)
+- **Completeness of process mapping** (20%)
+- **Functionality of automation** (40%)
+- **Documentation & presentation** (20%)
+- **Creativity & practicality of solution** (10%)
+
+---
+
+## ✅ Pro Tips for Success
+- Keep your problem **small and focused** – you only have to automate part of it.
+- Test your automation multiple times before submission.
+- Make your diagrams **clear and neat** – presentation matters in industry.
+- Use **meaningful names** for your flow, lists, and files.
+
+---
+
+**End of Project Brief**
