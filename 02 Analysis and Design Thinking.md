@@ -23,44 +23,25 @@ We will use a **3-step mini-cycle**:
 2. **Define** – Clearly describe the problem
 3. **Ideate** – Brainstorm possible solutions
 
-> 💡 The full industry version has 5 stages (Empathise – Define – Ideate – Prototype – Test). We are starting with 3 to make it simpler. Prototype and Test will happen later in the Design and Development lessons.
-
 ---
 
 ## 1️⃣ Empathise – Understand the Problem
-Before you can solve a problem, you must **see it from the user’s perspective**.
-
 **How to do it:**
 - Talk to the people who experience the problem
-- Ask open-ended questions (not just “yes/no”)
+- Ask open-ended questions
 - Observe how the process works in real life
 - Look for frustration points, delays, or repetitive work
-
-**Questions to ask:**
-- Who is involved in this process?
-- What steps do they take?
-- What is frustrating about this process?
-- What happens if something goes wrong?
 
 ---
 
 ## 2️⃣ Define – Describe the Problem Clearly
-Once you’ve gathered information, **turn it into a clear problem statement**.
-
 **Example:**
 - **Bad:** "The report is a mess."
 - **Good:** "The monthly sales report takes 3 hours to prepare because data from 4 spreadsheets has to be copied manually."
 
-**Tips:**
-- Be specific (who, what, when, why)
-- Focus on the **root cause**, not just the symptoms
-
 ---
 
 ## 3️⃣ Ideate – Think of Possible Solutions
-Now that you understand the problem, **brainstorm ideas**.  
-The goal here is **quantity**, not quality – we’ll refine later.
-
 **Rules for brainstorming:**
 - No idea is too silly at this stage
 - Build on other people’s ideas
@@ -68,29 +49,29 @@ The goal here is **quantity**, not quality – we’ll refine later.
 
 ---
 
-## 🛠 Breaking Problems into Consumable Parts
-In industry, we often break a big problem into **small, manageable parts**.
-
-### Example:
-**Big problem:** Students wait weeks for exam results.  
-**Broken down:**
-1. Data entry from exam scripts is slow  
-2. Marks are sent between departments manually  
-3. Results are released one batch at a time
-
-By solving **just one part** (e.g., automating data entry), we can already make a big impact.
+## 🧩 Breaking Problems into Consumable Parts
+**Example:**
+Big problem: Students wait weeks for exam results.  
+Broken down:
+1. Data entry from scripts is slow  
+2. Marks sent manually between departments  
+3. Results released in batches
 
 ---
 
-## 📌 Activity
-We will:
-1. **Pick a simple, real-life problem** from your college or community
-2. Interview at least **one person** involved
-3. Write a **Problem Statement**
-4. Brainstorm at least **3 possible solutions**
+## 🏋️ Activities – Analysis & Design Thinking
 
-Bring your notes to the next session – we’ll use them to map the **current process flow**.
+1. **Pick a Problem**
+   - Identify one process from your college or community that frustrates people.
+2. **Empathise**
+   - Interview at least 1 person who is affected by the problem.
+3. **Define**
+   - Write a clear **problem statement** (one sentence).
+4. **Ideate**
+   - List 3 possible solutions.
+5. **Upload**
+   - Save your notes in GitHub as `lesson-2-analysis.md`.
 
 ---
 
-✅ **Next Step:** Move on to [Lesson 2: Design](03-Design.md) to learn how to map out processes and visualise improvements.
+✅ Next Step: [Lesson 2: Design](03-Design.md)
